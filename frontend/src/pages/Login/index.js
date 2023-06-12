@@ -144,7 +144,7 @@ const Login = () => {
 
           <Typography variant="body2" color="textSecondary" align="center">
             <Link color="inherit" href={system.url}>
-              {system.name} - CNPJ: 34.211.165/0001-24
+              {system.name}
               <br></br>
               Todos os direitos reservados - <b>v{systemVersion}</b>
               <br></br>

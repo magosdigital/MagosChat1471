@@ -284,7 +284,7 @@ const LoggedInLayout = ({ children }) => {
               </MenuItem>
               <Divider />
               <span className={classes.systemCss}>
-                <Link color="inherit" href={"https://mkthub.tech"}>
+                <Link color="inherit" href={"https://magos.digital"}>
                   v{systemVersion}
                 </Link>
               </span>
